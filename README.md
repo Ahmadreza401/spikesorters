@@ -21,7 +21,7 @@ pip install spikeinterface
 You can also install SpikeSorters locally by cloning the repo into your code base. If you install SpikeSorters locally, you need to run the setup.py file.
 
 ```shell
-git clone https://github.com/SpikeInterface/spikesorters.git
+git clone https://github.com/Ahmadreza401/spikesorters
 cd spikesorters
 python setup.py install
 ```
